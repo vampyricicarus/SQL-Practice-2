@@ -1,0 +1,1 @@
+Using cursors we can make functions that add, remove, and update our tables with ease
